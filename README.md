@@ -15,11 +15,10 @@ Find the following instructions to setup this project.
 - `cd AI-Chatbot`
 - `python chat.py`
 
-## Tools Used:
+## 🛠Tools Used:
 - Pytorch
 - NLTK
 - Python
-- https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F261098554%2F76220b00-8e28-11ea-84e9-8ad203a872fd&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fdistilbert&tbnid=pQogfy36tvYfeM&vet=12ahUKEwjPyZL01N_zAhX8mksFHWamDnYQMygWegUIARDXAQ..i&docid=n8KepD-aI3McjM&w=691&h=449&q=pytorch%20images%20for%20github&ved=2ahUKEwjPyZL01N_zAhX8mksFHWamDnYQMygWegUIARDXAQ
 
 ## 📞 Contact Me:
 - You all can contact me through my [LinkedIn](https://www.linkedin.com/in/sudharsan-b-9447a51ab/) account.
